@@ -331,7 +331,6 @@
         }else {
 
             System.out.println("Your Zodiac Sign : " + sign);
-
         }
     }
 }
