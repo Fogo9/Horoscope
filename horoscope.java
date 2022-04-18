@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class horoscope{
+    
     public static void main(String[] args) {
 
         int month, day;
@@ -286,7 +287,6 @@ public class horoscope{
                     isError = true;
 
                 }
-
             }
         }else{
 
