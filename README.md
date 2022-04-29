@@ -1,14 +1,14 @@
 # **HOROSCOPE**
 
-# Information
+## INFORMATION
 
 * **Displays the horoscope by entering the birthday and month.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The day and month are defined with an int, and the horoscope as a string expression.
 
@@ -20,7 +20,7 @@
 
 * An error message was generated when the day and month were entered incorrectly.
 
-# Codes
+## CODES
 
 ```Java
 
@@ -430,13 +430,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/Horoscope.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
