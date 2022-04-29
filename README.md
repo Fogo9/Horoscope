@@ -20,8 +20,6 @@
 
 * An error message was generated when the day and month were entered incorrectly.
 
-<br />
-
 # Codes
 
 ```Java
